@@ -22,7 +22,7 @@ A clean and modern weather application built with React that displays current we
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/swapcode1/weather-app.git
 cd weather-app
 \`\`\`
 
@@ -43,9 +43,6 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 npm start
 \`\`\`
 
-## Project Structure
-
-See ARCHITECTURE.md for detailed folder structure and design patterns.
 
 ## License
 
